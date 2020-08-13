@@ -5,7 +5,7 @@ const students = [
     id: 1,
     name: "Ali",
     email: "ali@gmail.com",
-    age: 21,
+    age: 20,
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const students = [
     id: 3,
     name: "Aamir",
     email: "aamir@gmail.com",
-    age: 21,
+    age: 22,
   },
 ];
 
